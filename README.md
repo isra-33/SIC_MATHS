@@ -12,8 +12,6 @@ SIC_MATHS/
 ├── README.md
 ├── chi2test.ipynb
 ├── MATHS.ipynb
-└── assets/
-    └── (documentation assets)
 ```
 
 ---

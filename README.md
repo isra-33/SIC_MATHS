@@ -1,5 +1,4 @@
 # SIC_MATHS
-# SIC_MATHS: Statistical Methods & Probability Analysis
 
 ## 📋 Repository Overview
 
